@@ -1,2 +1,3 @@
 # Discord-Recources-Bot
-This is Recources bot on discord 
+This is Recources bot on discord BY 
+## NODEJS
